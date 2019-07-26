@@ -1,0 +1,21 @@
+{
+  "name": "game-server-stream",
+  "version": "1.0.0",
+  "description": "Tool for getting info from gaming servers (valve, minecraft)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "keywords": [
+    "game",
+    "server",
+    "server",
+    "stream",
+    "queue"
+  ],
+  "author": "edelwud",
+  "license": "ISC",
+  "devDependencies": {
+    "split": "^1.0.1"
+  }
+}
